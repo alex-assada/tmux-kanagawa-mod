@@ -10,7 +10,7 @@ Forked from [dracula/tmux](https://github.com/dracula/tmux).
 
 To activate the theme add the following line to your `.tmux.conf`.
 
-    set -g @plugin 'Nybkox/tmux-kanagawa'
+    set -g @plugin 'alex-assada/tmux-kanagawa-mod'
 
 For advanced instructions look at [INSTALL.md](https://github.com/Nybkox/tmux-kanagawa/blob/master/INSTALL.md) or check official instructions of [dracula/tmux](https://draculatheme.com/tmux). Just replace all `dracula` occurrences with `kanagawa`.
 
